@@ -1,0 +1,28 @@
+body{background-color:white}
+h1{
+border: 2px dotted purple;
+padding:100px 15% 10px 15%;
+}
+p.para1{
+  color:black;
+  font-family: "arial", arial, sans-serif;
+  font-size:8px;
+  text-align: center;
+}
+h2{
+color:green;
+font-family: "arial", arial, sans-serif;
+font-size:6px;
+text-align: center;
+}
+h3{
+  color:yellow;
+  font-family: "arial", arial, sans-serif;
+  font-size:12px;
+}
+h4{
+  color:purple;
+  font-family: "arial", arial, sans-serif;
+  font-size:5px;
+  text-align: right;
+}
